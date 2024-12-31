@@ -15,3 +15,5 @@ $ touch tsconfig.json
 5-4. JSDoc
 코멘트 문법을 통해 js 파일에 타입 정의
 
+
+5-5. Blocks
